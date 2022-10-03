@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Augustaublet
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Flask
+- 👀 I’m interested in Flutter, Dart, Python,
+- 🌱 I’m currently learning Flutter for mobile.
+
+Some knowlage in Python, Flask-restful, Apache2, Linux server, SQLAlchemy(MySQL), Flutter. 
 
 
 <!---
