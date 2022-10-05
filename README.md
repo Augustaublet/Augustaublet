@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter, Dart, Python,
 - 🌱 I’m currently learning Flutter for mobile.
 
-Some knowlage in Python, Flask-restful, Apache2, Linux server, SQLAlchemy(MySQL), Flutter, JavaScript, CSS, HTML. 
+Some knowlage in Python, Flask-restful, Apache2, Linux server, SQLAlchemy(MySQL), Flutter, JavaScript, CSS, HTML. Webhooks and WebSocets.
 
 
 <!---
